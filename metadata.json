@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Coding Progress Tracker",
+  "description": "Link your GitHub repositories to track commit history, analyze coding productivity, and generate AI-powered progress reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
